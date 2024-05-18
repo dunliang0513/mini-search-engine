@@ -1,30 +1,38 @@
 import requests
-from bs4 import BeautifulSoup, element
+from bs4 import BeautifulSoup
 
 
 def extract_text_from_url(url):
-    res = requests.get(url)
-    if res.status_code != 200:
+    try:
+        res = requests.get(url)
+        res.raise_for_status()  # Raises an HTTPError for bad responses
+    except requests.RequestException as e:
+        print(f"Request error: {e}")
         return ''
-    soup = BeautifulSoup(res.text, 'html.parser')
-    h1 = soup.find('h1', class_='details__headline')
-    h2 = soup.find('div', id='chapeau')
-    if (h1 is None) or (h2 is None):
+    
+    try:
+        soup = BeautifulSoup(res.text, 'html.parser')
+        
+        h1 = soup.find('h1', class_='wp-block-post-title')
+        h2 = soup.find('p', id='speakable-summary')
+        main_content = soup.find('div', class_='wp-block-post-content')
+        
+        if h1 is None or h2 is None or main_content is None:
+          print("Required elements not found in the HTML.")
+          return ''
+        
+        main_paragraphs = main_content.find_all('p')
+
+        # Filter out paragraphs that are ads
+        filtered_paragraphs = [p.get_text().strip() 
+                               for p in main_paragraphs 
+                               if not p.find_parent(class_='ad-unit wp-block-tc-ads-ad-slot')]
+        
+        chunks = [h1.get_text().strip()
+        , *filtered_paragraphs]
+
+        return '\n'.join(chunks)
+    
+    except Exception as e:
+        print(f"Parsing error: {e}")
         return ''
-
-    main_content = soup.find('div', id='abody')
-    if main_content is None:
-        return ''
-
-    chunks = []
-    chunks.append(h1.get_text().strip())
-    chunks.append(h2.get_text().strip())
-
-    if isinstance(main_content, element.Tag):
-        divs = main_content.find_all('div', class_=None)
-    else:
-        print("main_content is not a Tag object")
-    for div in divs[:2]:
-        chunks.append(div.get_text().strip())
-
-    return '\n'.join(chunks)
