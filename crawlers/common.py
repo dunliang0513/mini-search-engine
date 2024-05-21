@@ -2,7 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 
 def extract_sitemap(sitemap_url):
+    """
+    Returns:
+      List of the xml link extracted from the sitemap_url
+    """
     response = requests.get(sitemap_url)
+    
     if response.status_code != 200:
         return []
 
@@ -19,6 +24,10 @@ def extract_sitemap(sitemap_url):
     return sitemaps
 
 def extract_urls_from_xml(xml):
+    """
+    Returns:
+      List of URL link extracted from one xml link provided
+    """
     response = requests.get(xml)
     if response.status_code != 200:
         return []

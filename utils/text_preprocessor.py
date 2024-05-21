@@ -27,7 +27,8 @@ def spell_check_text(document):
 
 def preprocess_text(document, stopwords_list):
     document = document.lower()
-    document = remove_stopwords(document, stopwords_list)
     document = normalize_text(document)
     document = spell_check_text(document)
+    document = remove_stopwords(document, stopwords_list)
+    document = document.split()
     return document

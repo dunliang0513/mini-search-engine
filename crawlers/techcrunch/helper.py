@@ -5,7 +5,9 @@ from bs4 import BeautifulSoup
 def extract_text_from_url(url):
     try:
         res = requests.get(url)
-        res.raise_for_status()  # Raises an HTTPError for bad responses
+        # Raises an HTTPError for bad responses
+        res.raise_for_status()  
+
     except requests.RequestException as e:
         print(f"Request error: {e}")
         return ''

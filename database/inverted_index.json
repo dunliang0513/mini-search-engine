@@ -1,0 +1,12017 @@
+{
+  "ev": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "motorcycle": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 3
+    }
+  },
+  "offensive": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "includes": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "5": 1
+    }
+  },
+  "one": {
+    "doc_freq": 8,
+    "postings": {
+      "0": 2,
+      "1": 1,
+      "2": 3,
+      "4": 3,
+      "5": 1,
+      "6": 3,
+      "8": 2,
+      "9": 2
+    }
+  },
+  "just": {
+    "doc_freq": 6,
+    "postings": {
+      "0": 2,
+      "2": 9,
+      "4": 1,
+      "6": 4,
+      "8": 2,
+      "9": 2
+    }
+  },
+  "kids": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "2": 2
+    }
+  },
+  "honda": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 6
+    }
+  },
+  "plans": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 3,
+      "9": 1
+    }
+  },
+  "launch": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "least": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 2,
+      "2": 1,
+      "4": 2
+    }
+  },
+  "NUM": {
+    "doc_freq": 10,
+    "postings": {
+      "0": 2,
+      "1": 1,
+      "2": 4,
+      "3": 5,
+      "4": 7,
+      "5": 4,
+      "6": 1,
+      "7": 3,
+      "8": 3,
+      "9": 3
+    }
+  },
+  "motorcycles": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 5
+    }
+  },
+  "including": {
+    "doc_freq": 7,
+    "postings": {
+      "0": 2,
+      "1": 1,
+      "2": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "demand": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 3,
+      "4": 1
+    }
+  },
+  "bikes": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "rises": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "largest": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "7": 1
+    }
+  },
+  "manufacturer": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "said": {
+    "doc_freq": 5,
+    "postings": {
+      "0": 5,
+      "2": 1,
+      "3": 1,
+      "5": 1,
+      "9": 9
+    }
+  },
+  "tuesday": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "targeting": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 1,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "annual": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "7": 1
+    }
+  },
+  "sales": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "3": 1,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "million": {
+    "doc_freq": 5,
+    "postings": {
+      "0": 1,
+      "1": 1,
+      "2": 2,
+      "4": 1,
+      "9": 2
+    }
+  },
+  "electric": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 4
+    }
+  },
+  "within": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "next": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 3,
+      "2": 3,
+      "3": 1,
+      "8": 2
+    }
+  },
+  "five": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "8": 2
+    }
+  },
+  "announced": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "number": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "4": 2,
+      "6": 1,
+      "7": 1
+    }
+  },
+  "changes": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "2": 1,
+      "5": 1,
+      "7": 2
+    }
+  },
+  "models": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 3,
+      "8": 1
+    }
+  },
+  "swappable": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 3
+    }
+  },
+  "toward": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "5": 1
+    }
+  },
+  "goal": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "2": 1
+    }
+  },
+  "become": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "2": 1,
+      "4": 1,
+      "7": 1
+    }
+  },
+  "carbon": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "8": 1
+    }
+  },
+  "neutral": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "expects": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "2": 1
+    }
+  },
+  "comprise": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "bike": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 3,
+      "2": 1
+    }
+  },
+  "business": {
+    "doc_freq": 7,
+    "postings": {
+      "0": 3,
+      "2": 2,
+      "3": 1,
+      "4": 2,
+      "5": 4,
+      "7": 1,
+      "8": 2
+    }
+  },
+  "boosted": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "burgeoning": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "india": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "4": 1
+    }
+  },
+  "elsewhere": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "revamped": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "lineup": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "will": {
+    "doc_freq": 5,
+    "postings": {
+      "0": 2,
+      "1": 2,
+      "2": 3,
+      "4": 1,
+      "8": 4
+    }
+  },
+  "include": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "2": 1
+    }
+  },
+  "two": {
+    "doc_freq": 5,
+    "postings": {
+      "0": 1,
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "6": 2
+    }
+  },
+  "commuter": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 3
+    }
+  },
+  "three": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 2
+    }
+  },
+  "larger": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "5": 1
+    }
+  },
+  "europe": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "asia": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "company": {
+    "doc_freq": 7,
+    "postings": {
+      "0": 3,
+      "1": 2,
+      "3": 1,
+      "5": 5,
+      "7": 1,
+      "8": 3,
+      "9": 7
+    }
+  },
+  "provide": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 2,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "details": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "fun": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "2": 1
+    }
+  },
+  "model": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 2,
+      "2": 2,
+      "4": 1
+    }
+  },
+  "statement": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "pass": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "3": 1
+    }
+  },
+  "joy": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "riding": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "4": 1
+    }
+  },
+  "automated": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "5": 1
+    }
+  },
+  "also": {
+    "doc_freq": 8,
+    "postings": {
+      "0": 1,
+      "2": 3,
+      "4": 3,
+      "5": 3,
+      "6": 1,
+      "7": 1,
+      "8": 2,
+      "9": 1
+    }
+  },
+  "shift": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "mix": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "hardware": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "5": 1
+    }
+  },
+  "recurring": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "software": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 2,
+      "4": 2,
+      "5": 3,
+      "8": 1
+    }
+  },
+  "rather": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "dependent": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "upon": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "starting": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "6": 1
+    }
+  },
+  "scheduled": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "3": 1
+    }
+  },
+  "go": {
+    "doc_freq": 5,
+    "postings": {
+      "0": 1,
+      "1": 2,
+      "2": 2,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "sale": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "8": 1
+    }
+  },
+  "drivemode": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "subsidiary": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "add": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "5": 2
+    }
+  },
+  "features": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "6": 2
+    }
+  },
+  "charging": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 2
+    }
+  },
+  "notifications": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "calculate": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "optimal": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "route": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "based": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "2": 1,
+      "6": 2,
+      "9": 1
+    }
+  },
+  "remaining": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "1": 1
+    }
+  },
+  "battery": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 2
+    }
+  },
+  "batteries": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "crucial": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "especially": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "8": 2
+    }
+  },
+  "emerging": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 2,
+      "1": 1,
+      "2": 2
+    }
+  },
+  "countries": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "range": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "4": 1
+    }
+  },
+  "time": {
+    "doc_freq": 5,
+    "postings": {
+      "0": 1,
+      "1": 1,
+      "2": 8,
+      "7": 1,
+      "8": 2
+    }
+  },
+  "may": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "5": 3,
+      "8": 2,
+      "9": 1
+    }
+  },
+  "operates": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "establish": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "joint": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "ventures": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "services": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "4": 4,
+      "5": 3,
+      "7": 1
+    }
+  },
+  "indonesia": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "already": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "2": 4,
+      "4": 2,
+      "8": 1
+    }
+  },
+  "supplies": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "mail": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "delivery": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "2": 1,
+      "5": 4,
+      "8": 2
+    }
+  },
+  "vietnam": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "conducting": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "trials": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "thailand": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "post": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "series": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "6": 1
+    }
+  },
+  "use": {
+    "doc_freq": 5,
+    "postings": {
+      "0": 1,
+      "2": 1,
+      "4": 2,
+      "6": 2,
+      "8": 4
+    }
+  },
+  "mobile": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "power": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 1,
+      "2": 1,
+      "6": 2
+    }
+  },
+  "pack": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "small": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 1,
+      "2": 2,
+      "4": 2
+    }
+  },
+  "stores": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "electricity": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "generated": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "renewable": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "high": {
+    "doc_freq": 3,
+    "postings": {
+      "0": 1,
+      "5": 1,
+      "8": 2
+    }
+  },
+  "mainly": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "lifeline": {
+    "doc_freq": 1,
+    "postings": {
+      "0": 1
+    }
+  },
+  "people": {
+    "doc_freq": 4,
+    "postings": {
+      "0": 1,
+      "2": 5,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "everyday": {
+    "doc_freq": 2,
+    "postings": {
+      "0": 1,
+      "4": 1
+    }
+  },
+  "twitter": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 7,
+      "8": 1,
+      "9": 19
+    }
+  },
+  "shareholders": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 4
+    }
+  },
+  "approve": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 2
+    }
+  },
+  "elon": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 3
+    }
+  },
+  "billion": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 2,
+      "8": 1
+    }
+  },
+  "buyout": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "offer": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 3,
+      "2": 2,
+      "5": 1
+    }
+  },
+  "musk": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 7
+    }
+  },
+  "might": {
+    "doc_freq": 5,
+    "postings": {
+      "1": 1,
+      "2": 1,
+      "4": 2,
+      "5": 7,
+      "9": 1
+    }
+  },
+  "cold": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "feet": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "buy": {
+    "doc_freq": 4,
+    "postings": {
+      "1": 1,
+      "2": 2,
+      "3": 1,
+      "4": 2
+    }
+  },
+  "still": {
+    "doc_freq": 6,
+    "postings": {
+      "1": 1,
+      "2": 3,
+      "4": 1,
+      "6": 3,
+      "7": 1,
+      "8": 2
+    }
+  },
+  "acquisition": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 3,
+      "8": 1
+    }
+  },
+  "cleared": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "hurdle": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "voting": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "accept": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "deal": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 3,
+      "8": 2
+    }
+  },
+  "now": {
+    "doc_freq": 6,
+    "postings": {
+      "1": 1,
+      "2": 3,
+      "3": 1,
+      "5": 1,
+      "8": 3,
+      "9": 1
+    }
+  },
+  "trying": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 2
+    }
+  },
+  "get": {
+    "doc_freq": 4,
+    "postings": {
+      "1": 1,
+      "2": 10,
+      "4": 2,
+      "6": 1
+    }
+  },
+  "shareholder": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "vote": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 2
+    }
+  },
+  "comes": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "2": 2,
+      "4": 1
+    }
+  },
+  "day": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "3": 1,
+      "4": 3
+    }
+  },
+  "former": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "2": 1,
+      "9": 1
+    }
+  },
+  "security": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 3,
+      "6": 1,
+      "9": 2
+    }
+  },
+  "lead": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 2,
+      "9": 1
+    }
+  },
+  "peter": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "9": 1
+    }
+  },
+  "ratio": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 2
+    }
+  },
+  "testified": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "9": 2
+    }
+  },
+  "congress": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "9": 1
+    }
+  },
+  "explosive": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "9": 2
+    }
+  },
+  "whistleblower": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "9": 4
+    }
+  },
+  "report": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "7": 5
+    }
+  },
+  "documenting": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "privacy": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "7": 2,
+      "9": 2
+    }
+  },
+  "lapses": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "witnessed": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 1
+    }
+  },
+  "executive": {
+    "doc_freq": 4,
+    "postings": {
+      "1": 2,
+      "3": 1,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "asked": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "9": 1
+    }
+  },
+  "bid": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "back": {
+    "doc_freq": 4,
+    "postings": {
+      "1": 2,
+      "3": 1,
+      "6": 1,
+      "8": 1
+    }
+  },
+  "step": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "clear": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "2": 1,
+      "4": 1
+    }
+  },
+  "way": {
+    "doc_freq": 4,
+    "postings": {
+      "1": 1,
+      "2": 2,
+      "5": 1,
+      "6": 1
+    }
+  },
+  "taking": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "2": 1,
+      "4": 3
+    }
+  },
+  "court": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 2
+    }
+  },
+  "force": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 2
+    }
+  },
+  "erratic": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "tech": {
+    "doc_freq": 5,
+    "postings": {
+      "1": 2,
+      "3": 1,
+      "5": 1,
+      "7": 1,
+      "8": 6
+    }
+  },
+  "figure": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "follow": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 1
+    }
+  },
+  "far": {
+    "doc_freq": 5,
+    "postings": {
+      "1": 1,
+      "4": 1,
+      "5": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "obstacle": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "offered": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "8": 1
+    }
+  },
+  "per": {
+    "doc_freq": 5,
+    "postings": {
+      "1": 1,
+      "2": 1,
+      "4": 3,
+      "7": 1,
+      "8": 1
+    }
+  },
+  "share": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "prior": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 1
+    }
+  },
+  "significant": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "market": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "4": 8,
+      "8": 2
+    }
+  },
+  "dip": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "spurred": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "record": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 2
+    }
+  },
+  "inflation": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "7": 3,
+      "8": 1
+    }
+  },
+  "ongoing": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "geopolitical": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "chaos": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "thrown": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 1
+    }
+  },
+  "economies": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "around": {
+    "doc_freq": 5,
+    "postings": {
+      "1": 1,
+      "2": 2,
+      "4": 1,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "world": {
+    "doc_freq": 4,
+    "postings": {
+      "1": 1,
+      "2": 3,
+      "3": 1,
+      "4": 1
+    }
+  },
+  "meet": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "2": 1,
+      "4": 2
+    }
+  },
+  "october": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "3": 3
+    }
+  },
+  "trial": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "determine": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "can": {
+    "doc_freq": 6,
+    "postings": {
+      "1": 1,
+      "2": 6,
+      "3": 1,
+      "4": 1,
+      "5": 7,
+      "8": 3
+    }
+  },
+  "richest": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "man": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "averaging": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "every": {
+    "doc_freq": 4,
+    "postings": {
+      "1": 1,
+      "2": 2,
+      "3": 1,
+      "4": 2
+    }
+  },
+  "possible": {
+    "doc_freq": 3,
+    "postings": {
+      "1": 1,
+      "3": 1,
+      "9": 1
+    }
+  },
+  "angle": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "kill": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "bringing": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "4": 2
+    }
+  },
+  "allegations": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "9": 1
+    }
+  },
+  "counterfeit": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "sent": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "yet": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 1
+    }
+  },
+  "another": {
+    "doc_freq": 7,
+    "postings": {
+      "1": 1,
+      "2": 1,
+      "4": 1,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "letter": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "intent": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "terminate": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "arguing": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "reported": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "2": 1
+    }
+  },
+  "reverence": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "payment": {
+    "doc_freq": 2,
+    "postings": {
+      "1": 1,
+      "8": 1
+    }
+  },
+  "outgoing": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "violated": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "accepts": {
+    "doc_freq": 1,
+    "postings": {
+      "1": 1
+    }
+  },
+  "views": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "unpaid": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 18
+    }
+  },
+  "venture": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 17,
+      "3": 1,
+      "4": 1
+    }
+  },
+  "internships": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 8
+    }
+  },
+  "fortune": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "dorm": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 9
+    }
+  },
+  "room": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 9
+    }
+  },
+  "investing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 4
+    }
+  },
+  "spun": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "first": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 5,
+      "3": 1,
+      "6": 1,
+      "9": 1
+    }
+  },
+  "round": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "capital": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 7,
+      "4": 1
+    }
+  },
+  "newest": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "almost": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "easy": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "4": 1
+    }
+  },
+  "vehicle": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 7
+    }
+  },
+  "bent": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "providing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "experience": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 5,
+      "6": 3
+    }
+  },
+  "generation": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 1
+    }
+  },
+  "flush": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "dollars": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "4": 1
+    }
+  },
+  "work": {
+    "doc_freq": 5,
+    "postings": {
+      "2": 10,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 2
+    }
+  },
+  "turned": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "participants": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "program": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 4
+    }
+  },
+  "paid": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 7,
+      "6": 1,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "receive": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "upside": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "deals": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "student": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 6
+    }
+  },
+  "spots": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "cent": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "richer": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "publication": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "fund": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 11
+    }
+  },
+  "ceo": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "8": 4
+    }
+  },
+  "molly": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "defended": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "firm": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 4,
+      "7": 2
+    }
+  },
+  "email": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 2
+    }
+  },
+  "provides": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "unparalleled": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "training": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "thousands": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "students": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 15
+    }
+  },
+  "apply": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "participate": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "educational": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "year": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "7": 3,
+      "8": 1
+    }
+  },
+  "hopes": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "opportunities": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 4,
+      "8": 1
+    }
+  },
+  "drf": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 7
+    }
+  },
+  "encourage": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "partners": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "allocate": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "opportunity": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 3,
+      "4": 1,
+      "8": 1
+    }
+  },
+  "unique": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "circumstances": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "found": {
+    "doc_freq": 5,
+    "postings": {
+      "2": 1,
+      "6": 2,
+      "7": 3,
+      "8": 1,
+      "9": 2
+    }
+  },
+  "commitment": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "commensurate": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "extracurricular": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "fowler": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "contributed": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "management": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 4,
+      "5": 2,
+      "6": 1,
+      "9": 1
+    }
+  },
+  "fees": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "pool": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "spend": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 4
+    }
+  },
+  "saw": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "fit": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "committed": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "carried": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "interest": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 1
+    }
+  },
+  "earned": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "nonprofits": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "independent": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "see": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 4,
+      "3": 1,
+      "4": 1,
+      "6": 1
+    }
+  },
+  "set": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "8": 1
+    }
+  },
+  "aside": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "allocated": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "portion": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "carry": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "new": {
+    "doc_freq": 6,
+    "postings": {
+      "2": 3,
+      "4": 3,
+      "5": 1,
+      "6": 4,
+      "7": 4,
+      "8": 2
+    }
+  },
+  "creative": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "3": 1
+    }
+  },
+  "ways": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "investors": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 3,
+      "8": 1
+    }
+  },
+  "potential": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "success": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "unclear": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "looks": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "used": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "5": 1,
+      "6": 1,
+      "9": 5
+    }
+  },
+  "pay": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 6,
+      "4": 2
+    }
+  },
+  "element": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "6": 1
+    }
+  },
+  "kicked": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "commentary": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "ethics": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "issue": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "felt": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "glaring": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "investment": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 4,
+      "8": 2
+    }
+  },
+  "group": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "4": 2,
+      "7": 1,
+      "8": 1
+    }
+  },
+  "able": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 5,
+      "4": 1,
+      "8": 1
+    }
+  },
+  "raise": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "millions": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "external": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "industry": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 4,
+      "4": 1
+    }
+  },
+  "gathering": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "criticism": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "recent": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "years": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "6": 2,
+      "8": 2
+    }
+  },
+  "homogeneity": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "historically": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "7": 1
+    }
+  },
+  "excluded": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "large": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 2
+    }
+  },
+  "chunks": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "population": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "insular": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "offering": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 3,
+      "4": 1
+    }
+  },
+  "college": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 4
+    }
+  },
+  "techcrunch": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "3": 5,
+      "4": 2
+    }
+  },
+  "team": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "3": 1
+    }
+  },
+  "banded": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "topic": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "leading": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "multiview": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "piece": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "natasha": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "rebecca": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "alex": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "8": 1
+    }
+  },
+  "wilhelm": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "amanda": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "silberling": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "weighed": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "talk": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 2
+    }
+  },
+  "strongly": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "believe": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 1
+    }
+  },
+  "organizations": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hire": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "talent": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "afford": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 4
+    }
+  },
+  "lover": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "numbers": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "nuance": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "behind": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "5": 1,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "want": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "3": 1,
+      "5": 5
+    }
+  },
+  "different": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "4": 2,
+      "6": 1,
+      "7": 1
+    }
+  },
+  "perspective": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "colleagues": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "positives": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "track": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "records": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "began": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "7": 1
+    }
+  },
+  "got": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "6": 1
+    }
+  },
+  "clip": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 1
+    }
+  },
+  "school": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 5
+    }
+  },
+  "second": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "somewhere": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "North": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "boston": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "globe": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hired": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "intern": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "making": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 3,
+      "4": 2,
+      "7": 1
+    }
+  },
+  "slightly": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "minimum": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "built": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "run": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "4": 2,
+      "5": 2
+    }
+  },
+  "never": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "help": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 5,
+      "5": 1,
+      "6": 2,
+      "8": 2
+    }
+  },
+  "us": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 1
+    }
+  },
+  "land": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "taken": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "seriously": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "editors": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "3": 1
+    }
+  },
+  "solve": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 2
+    }
+  },
+  "activation": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "energy": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "traditionally": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "needed": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "published": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "article": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "connections": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "mindset": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "translates": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "well": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 1
+    }
+  },
+  "parts": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "newspaper": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "getting": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "much": {
+    "doc_freq": 5,
+    "postings": {
+      "2": 2,
+      "4": 2,
+      "5": 1,
+      "6": 3,
+      "7": 2
+    }
+  },
+  "driven": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hope": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "8": 1
+    }
+  },
+  "real": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "3": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "impact": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 1
+    }
+  },
+  "gain": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "attention": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "paycheck": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "media": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "funds": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "economics": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "suck": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "similar": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "sort": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "dance": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "associates": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "manager": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hours": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "week": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "without": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 6,
+      "5": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "return": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "3": 1
+    }
+  },
+  "lands": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "lot": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "money": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 4,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "distributed": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "internship": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "makes": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "tad": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "sense": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "likely": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 3,
+      "4": 2,
+      "7": 1
+    }
+  },
+  "disrupt": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "3": 6
+    }
+  },
+  "diversity": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "traditional": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 4
+    }
+  },
+  "latter": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "category": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "chooses": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "despite": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "managing": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "8": 1
+    }
+  },
+  "billions": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "something": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "6": 1
+    }
+  },
+  "common": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "9": 1
+    }
+  },
+  "mean": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "stay": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "employing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "deciding": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "agree": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "status": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "even": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 5,
+      "4": 4,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "though": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "7": 1
+    }
+  },
+  "quo": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "knowing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "system": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 3,
+      "9": 1
+    }
+  },
+  "works": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "change": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "led": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "7": 1
+    }
+  },
+  "allows": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "really": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "6": 3
+    }
+  },
+  "taste": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "working": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "vc": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "scouting": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "startups": {
+    "doc_freq": 5,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "4": 14,
+      "5": 1,
+      "8": 5
+    }
+  },
+  "cutting": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "checks": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "great": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 3,
+      "3": 1,
+      "6": 1
+    }
+  },
+  "resumes": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "fact": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "compensated": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "means": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 1
+    }
+  },
+  "caters": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "need": {
+    "doc_freq": 5,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 5,
+      "8": 1
+    }
+  },
+  "breaking": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "firms": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 3,
+      "4": 1
+    }
+  },
+  "like": {
+    "doc_freq": 5,
+    "postings": {
+      "2": 5,
+      "4": 2,
+      "5": 1,
+      "6": 4,
+      "7": 1
+    }
+  },
+  "complain": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "left": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "5": 2,
+      "8": 1
+    }
+  },
+  "right": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "9": 1
+    }
+  },
+  "fault": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "diverse": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 3,
+      "4": 1
+    }
+  },
+  "spurious": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "argument": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "begin": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "going": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "exclusively": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "programs": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 3,
+      "5": 2
+    }
+  },
+  "eliminate": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "consideration": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "ability": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "take": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "favor": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "good": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "8": 1
+    }
+  },
+  "schools": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "prime": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "position": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "build": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "network": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "parents": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "speaking": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "personal": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "coming": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "3": 1
+    }
+  },
+  "privileged": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "background": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "family": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "willing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "struggled": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "remember": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "spending": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "summers": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "night": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "weekend": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "retail": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "job": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "rent": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "allowed": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "clock": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "heart": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "magazines": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "zero": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "credit": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "8": 1
+    }
+  },
+  "helping": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "career": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "acknowledge": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "designed": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 3
+    }
+  },
+  "scramble": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "make": {
+    "doc_freq": 5,
+    "postings": {
+      "2": 3,
+      "3": 1,
+      "4": 1,
+      "5": 2,
+      "9": 1
+    }
+  },
+  "ends": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "many": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "4": 3,
+      "8": 5,
+      "9": 1
+    }
+  },
+  "bunch": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "excited": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "probably": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "otherwise": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "consider": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "asset": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "opened": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "door": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 4
+    }
+  },
+  "ideas": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "backgrounds": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "seat": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "nature": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "ensures": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "struggle": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "looking": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "page": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "8": 1
+    }
+  },
+  "current": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 2
+    }
+  },
+  "represented": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "university": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "pennsylvania": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "institutions": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "advantage": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "break": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "6": 1
+    }
+  },
+  "compared": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "7": 1,
+      "8": 1
+    }
+  },
+  "others": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "name": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "honestly": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "blows": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "mind": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "things": {
+    "doc_freq": 6,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "sheer": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "amount": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "fundraising": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "broke": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "7": 1
+    }
+  },
+  "smaller": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 2
+    }
+  },
+  "throw": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "bone": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 3,
+      "4": 1
+    }
+  },
+  "shape": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "cement": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "type": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "gets": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "foot": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "slams": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "shut": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "familiar": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "think": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "correct": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "boo": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "winding": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "put": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "9": 1
+    }
+  },
+  "particular": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "6": 1,
+      "9": 3
+    }
+  },
+  "action": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "side": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "drives": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "utterly": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "bankers": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "generally": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "aggressive": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "brutality": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "doubly": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "clearing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "path": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "footsteps": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "lack": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "9": 1
+    }
+  },
+  "financial": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "4": 4
+    }
+  },
+  "manifests": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "across": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "7": 3
+    }
+  },
+  "institutional": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "higher": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "ratified": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "often": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "8": 1
+    }
+  },
+  "systems": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "5": 1,
+      "9": 2
+    }
+  },
+  "maintained": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "cater": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "extant": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "silver": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "resources": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "normal": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "entry": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "fight": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "despise": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hate": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "dealing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "aggregate": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "midst": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "successful": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "flowing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "evidence": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "apart": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "raw": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "raised": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "start": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "end": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "actually": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "graduated": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "quarter": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "early": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 3
+    }
+  },
+  "full": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 2
+    }
+  },
+  "gig": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "sooner": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "presumably": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "industries": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "3": 1
+    }
+  },
+  "fair": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "purpose": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "efforts": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "broaden": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "top": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "7": 1,
+      "8": 1
+    }
+  },
+  "funnel": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "away": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "closing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "simply": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "4": 2
+    }
+  },
+  "space": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "8": 1
+    }
+  },
+  "made": {
+    "doc_freq": 6,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "available": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "6": 3,
+      "8": 1
+    }
+  },
+  "squared": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "gross": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "equivalent": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "rich": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "person": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 3,
+      "8": 1
+    }
+  },
+  "tipping": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "poorly": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "counter": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "worth": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 2
+    }
+  },
+  "food": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "harder": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "8": 1
+    }
+  },
+  "folks": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "buying": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "product": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "5": 3,
+      "8": 1
+    }
+  },
+  "less": {
+    "doc_freq": 6,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "fewer": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "benefits": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "reliable": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "junior": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "logged": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "worked": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 2,
+      "6": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "manual": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "labor": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "let": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "nothing": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "front": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "desk": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hard": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "4": 1,
+      "7": 1
+    }
+  },
+  "best": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "jobs": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "parsimony": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "must": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "else": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "assume": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "guilt": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "enacting": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "fuck": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "founder": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "3": 1,
+      "4": 2
+    }
+  },
+  "josh": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "attended": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "studied": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "english": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "fine": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "immune": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "presence": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hypercompetitive": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "culture": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "8": 1
+    }
+  },
+  "largely": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "proliferated": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "undergrad": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "studying": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "sharon": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "times": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "exit": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "freshman": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "walking": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "3": 1
+    }
+  },
+  "hall": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "suits": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "woo": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "banks": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 4
+    }
+  },
+  "competition": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "summer": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "sometimes": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "boards": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "mostly": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "6": 1
+    }
+  },
+  "generational": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "wealthy": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "competing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "spot": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "7": 1
+    }
+  },
+  "clubs": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "penn": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 3
+    }
+  },
+  "seen": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "ticket": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "turn": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 2,
+      "5": 1,
+      "6": 1
+    }
+  },
+  "extends": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "exploitation": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "beyond": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 2
+    }
+  },
+  "mecca": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "points": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "benefit": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "enough": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "president": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "un": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "club": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "unlike": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 1
+    }
+  },
+  "standard": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "expertise": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "vs": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "invest": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "companies": {
+    "doc_freq": 6,
+    "postings": {
+      "2": 2,
+      "4": 11,
+      "5": 2,
+      "7": 1,
+      "8": 3,
+      "9": 1
+    }
+  },
+  "equity": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "happen": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "future": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "burning": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "pile": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "trash": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "uber": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "compensate": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "sure": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "resume": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "wannabe": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "tired": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "hearing": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "stories": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "long": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 1,
+      "6": 1
+    }
+  },
+  "wait": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "tables": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "understand": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 2,
+      "9": 1
+    }
+  },
+  "hefty": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "class": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "load": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "plus": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "laborious": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "service": {
+    "doc_freq": 4,
+    "postings": {
+      "2": 1,
+      "4": 2,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "recipe": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "mental": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "health": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "devastating": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "narrative": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 2
+    }
+  },
+  "overcome": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "anything": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "inequality": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "ok": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "keep": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "9": 1
+    }
+  },
+  "classmates": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "serve": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "coffee": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "maybe": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "apps": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "5": 1,
+      "7": 2
+    }
+  },
+  "notoriously": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "awful": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "contract": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "running": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "ever": {
+    "doc_freq": 3,
+    "postings": {
+      "2": 1,
+      "4": 1,
+      "5": 1
+    }
+  },
+  "look": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "4": 3
+    }
+  },
+  "mckinsey": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "rain": {
+    "doc_freq": 2,
+    "postings": {
+      "2": 1,
+      "5": 1
+    }
+  },
+  "deliver": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "pizza": {
+    "doc_freq": 1,
+    "postings": {
+      "2": 1
+    }
+  },
+  "tracking": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "7": 1
+    }
+  },
+  "fintech": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 4,
+      "4": 15
+    }
+  },
+  "crypto": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 6,
+      "4": 7
+    }
+  },
+  "big": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "irl": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "since": {
+    "doc_freq": 5,
+    "postings": {
+      "3": 1,
+      "6": 2,
+      "7": 1,
+      "8": 2,
+      "9": 1
+    }
+  },
+  "doors": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "8": 1
+    }
+  },
+  "open": {
+    "doc_freq": 4,
+    "postings": {
+      "3": 1,
+      "5": 1,
+      "6": 2,
+      "8": 1
+    }
+  },
+  "find": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 3,
+      "8": 1
+    }
+  },
+  "panel": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "9": 1
+    }
+  },
+  "breakout": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "plethora": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "startup": {
+    "doc_freq": 4,
+    "postings": {
+      "3": 1,
+      "4": 2,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "goodness": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "waiting": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "hurry": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "miss": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "september": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 2
+    }
+  },
+  "deadline": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "book": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "4": 1
+    }
+  },
+  "passes": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "save": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 2,
+      "8": 1
+    }
+  },
+  "regularly": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "agenda": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "impressive": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "exact": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "content": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 2,
+      "6": 1
+    }
+  },
+  "drive": {
+    "doc_freq": 3,
+    "postings": {
+      "3": 1,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "wanted": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "highlight": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "show": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "specifically": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "sessions": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 2
+    }
+  },
+  "added": {
+    "doc_freq": 3,
+    "postings": {
+      "3": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "bankrolling": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "blockchain": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 3
+    }
+  },
+  "chris": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "dixon": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 2
+    }
+  },
+  "speeding": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "anatomy": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "yakovenko": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "solar": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "4": 1
+    }
+  },
+  "road": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "ahead": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "6": 1
+    }
+  },
+  "brett": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "5": 1
+    }
+  },
+  "harrison": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "later": {
+    "doc_freq": 3,
+    "postings": {
+      "3": 1,
+      "4": 2,
+      "5": 1
+    }
+  },
+  "unispal": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "cup": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "sheffield": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "vp": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "8": 1
+    }
+  },
+  "global": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "live": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "8": 1
+    }
+  },
+  "chain": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "reaction": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "7": 2
+    }
+  },
+  "various": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "expectations": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "sponsored": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 3
+    }
+  },
+  "monogram": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 2
+    }
+  },
+  "delle": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "stellar": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "development": {
+    "doc_freq": 3,
+    "postings": {
+      "3": 1,
+      "5": 3,
+      "8": 1
+    }
+  },
+  "holmes": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "chairman": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "symbiotic": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "relationships": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "fis": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "nts": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "problems": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "manuel": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "scaling": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "8": 1
+    }
+  },
+  "expand": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "continent": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "brick": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "jeff": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "unlocking": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "prosperity": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "africa": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "fast": {
+    "doc_freq": 3,
+    "postings": {
+      "3": 1,
+      "6": 1,
+      "8": 1
+    }
+  },
+  "forward": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "studio": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "takes": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "place": {
+    "doc_freq": 3,
+    "postings": {
+      "3": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "san": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "8": 1
+    }
+  },
+  "francisco": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "online": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "8": 1
+    }
+  },
+  "friday": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "interested": {
+    "doc_freq": 2,
+    "postings": {
+      "3": 1,
+      "5": 1
+    }
+  },
+  "sponsoring": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "exhibiting": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "contact": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "sponsorship": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "filling": {
+    "doc_freq": 1,
+    "postings": {
+      "3": 1
+    }
+  },
+  "yc": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 5
+    }
+  },
+  "batch": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 6
+    }
+  },
+  "shows": {
+    "doc_freq": 4,
+    "postings": {
+      "4": 2,
+      "5": 1,
+      "6": 1,
+      "7": 1
+    }
+  },
+  "founders": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 3,
+      "8": 2
+    }
+  },
+  "remain": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "optimistic": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "stop": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "raising": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "staggering": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "sums": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "technology": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 3,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "ran": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "valuations": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "wall": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "public": {
+    "doc_freq": 5,
+    "postings": {
+      "4": 1,
+      "5": 4,
+      "6": 1,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "markets": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 3
+    }
+  },
+  "retreated": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "formerly": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "giants": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "took": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "caught": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "wave": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "proving": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "5": 1
+    }
+  },
+  "similarly": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "5": 1
+    }
+  },
+  "data": {
+    "doc_freq": 4,
+    "postings": {
+      "4": 1,
+      "5": 2,
+      "7": 2,
+      "9": 10
+    }
+  },
+  "seed": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "recently": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "8": 1
+    }
+  },
+  "cohort": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "went": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "american": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "accelerator": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "y": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 5
+    }
+  },
+  "tell": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "lost": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "participated": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "latest": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 5,
+      "8": 1
+    }
+  },
+  "nominator": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "counting": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "part": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 4,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "operating": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "radar": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "theme": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 1
+    }
+  },
+  "sufficient": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "according": {
+    "doc_freq": 4,
+    "postings": {
+      "4": 1,
+      "5": 1,
+      "8": 4,
+      "9": 1
+    }
+  },
+  "demo": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 3
+    }
+  },
+  "sorted": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "sizable": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "exchange": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "explores": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "read": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "morning": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "newsletter": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "shame": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "argue": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "definition": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "bit": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "surprised": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "names": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "categories": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 1
+    }
+  },
+  "perhaps": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 4
+    }
+  },
+  "optimism": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "transgression": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "quick": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "npl": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 9
+    }
+  },
+  "neobanks": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "upstart": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "areas": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "boom": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 3
+    }
+  },
+  "building": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 5
+    }
+  },
+  "pitched": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "consumer": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 4,
+      "5": 1
+    }
+  },
+  "lenders": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "appears": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 4,
+      "7": 1
+    }
+  },
+  "revenue": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 2,
+      "5": 1,
+      "7": 1
+    }
+  },
+  "certainly": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "dollar": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "multiple": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "loans": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "affected": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "previously": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "prove": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "difficult": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 2
+    }
+  },
+  "stopping": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "pursuing": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "types": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 1
+    }
+  },
+  "discussing": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "smallest": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "branch": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 3
+    }
+  },
+  "drip": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "truly": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "8": 1
+    }
+  },
+  "focused": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 2,
+      "6": 1
+    }
+  },
+  "spread": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "certain": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "5": 1,
+      "9": 1
+    }
+  },
+  "costs": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "focus": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 4,
+      "9": 1
+    }
+  },
+  "installment": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "enjoy": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "strong": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "6": 1
+    }
+  },
+  "vanilla": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "tuned": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "given": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 2,
+      "6": 1,
+      "9": 2
+    }
+  },
+  "scale": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 1
+    }
+  },
+  "wind": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "8": 1
+    }
+  },
+  "tackling": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "country": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "methods": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "target": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 3,
+      "9": 2
+    }
+  },
+  "framed": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "8": 1
+    }
+  },
+  "overall": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 2
+    }
+  },
+  "surprising": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "entrants": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "subsections": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "expect": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "reforming": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "investor": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 2,
+      "8": 1
+    }
+  },
+  "activity": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "evolving": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "changed": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "neobanking": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "trucking": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "along": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "bingo": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "six": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "describe": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "mention": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "backed": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "5": 1
+    }
+  },
+  "eight": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "reveals": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "known": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 1
+    }
+  },
+  "backing": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "compete": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "neobank": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "focuses": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "remote": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "5": 1,
+      "8": 1
+    }
+  },
+  "workers": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "couples": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "specific": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 2,
+      "9": 3
+    }
+  },
+  "main": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 1
+    }
+  },
+  "reason": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 1
+    }
+  },
+  "thinks": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "parent": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "nu": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "trading": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "ipo": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "price": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 6
+    }
+  },
+  "generals": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "peers": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "always": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "targeted": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 1
+    }
+  },
+  "question": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 1
+    }
+  },
+  "whether": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "5": 1
+    }
+  },
+  "total": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "addressable": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "wondered": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "none": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "picks": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "latino": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "living": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "united": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "goes": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "5": 1
+    }
+  },
+  "serves": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "african": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "migrants": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "exited": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "via": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "among": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "6": 1,
+      "9": 1
+    }
+  },
+  "coincidence": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "regulators": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 2
+    }
+  },
+  "increasingly": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 1
+    }
+  },
+  "wary": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "colleague": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "mary": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "ann": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "azevedo": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "christopher": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "fashion": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "shared": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "thoughts": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "latin": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 4,
+      "8": 2
+    }
+  },
+  "situation": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "banking": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "sms": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "micro": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "billiard": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "told": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 6
+    }
+  },
+  "marginalized": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "qualify": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "scoring": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "segment": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "represent": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "risk": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "control": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "tools": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "5": 4,
+      "9": 1
+    }
+  },
+  "regulations": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "usually": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "forbid": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "alternative": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "unable": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "properly": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "support": {
+    "doc_freq": 4,
+    "postings": {
+      "4": 1,
+      "5": 1,
+      "7": 1,
+      "8": 2
+    }
+  },
+  "creates": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "aims": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "explains": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "several": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "5": 2,
+      "6": 1
+    }
+  },
+  "focusing": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "addressing": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "apprecio": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "true": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "7": 1,
+      "8": 1
+    }
+  },
+  "know": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "5": 2,
+      "9": 1
+    }
+  },
+  "enthusiasm": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "webNUM": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 4
+    }
+  },
+  "host": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "nearly": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 2,
+      "6": 1
+    }
+  },
+  "shock": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "earlier": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "5": 1
+    }
+  },
+  "alive": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "prices": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 5
+    }
+  },
+  "parlance": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "entities": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "suffering": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "example": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "reach": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "7": 1
+    }
+  },
+  "rio": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "kapstar": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "wants": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "bring": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "6": 1,
+      "8": 1
+    }
+  },
+  "access": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 6
+    }
+  },
+  "brazil": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "decentralized": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 2
+    }
+  },
+  "examples": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "noted": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "dive": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "user": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "6": 1,
+      "9": 6
+    }
+  },
+  "friendly": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "developers": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "8": 1
+    }
+  },
+  "plumbing": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "wallets": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "seem": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "major": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "6": 2
+    }
+  },
+  "area": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "partly": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "response": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "9": 1
+    }
+  },
+  "products": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 2,
+      "5": 4
+    }
+  },
+  "clunky": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "confusing": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "outside": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "internet": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "6": 2
+    }
+  },
+  "friends": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "capitalize": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "growing": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "7": 1,
+      "8": 1
+    }
+  },
+  "community": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "publish": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "mass": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "adoption": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "corner": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "close": {
+    "doc_freq": 3,
+    "postings": {
+      "4": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "huge": {
+    "doc_freq": 2,
+    "postings": {
+      "4": 1,
+      "8": 1
+    }
+  },
+  "cash": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "reserves": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "winter": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "technical": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "damper": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "entrepreneur": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "fascination": {
+    "doc_freq": 1,
+    "postings": {
+      "4": 1
+    }
+  },
+  "ago": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 12
+    }
+  },
+  "ai": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "kicks": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "gear": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "av": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 6
+    }
+  },
+  "autonomous": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 3
+    }
+  },
+  "developer": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 2
+    }
+  },
+  "ford": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 5
+    }
+  },
+  "vw": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "revealed": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "ecosystem": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "8": 1
+    }
+  },
+  "commercial": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "robotaxi": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "list": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 1
+    }
+  },
+  "fleet": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 4
+    }
+  },
+  "mapping": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "communication": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "stretches": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "navigate": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 1
+    }
+  },
+  "city": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "streets": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "human": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "driver": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "together": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "sends": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "singular": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "message": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "line": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "naming": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "exactly": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "reached": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "agreements": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "packaged": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "goods": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "care": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "plug": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 4
+    }
+  },
+  "businesses": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "vice": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "drowning": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 4
+    }
+  },
+  "cool": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "owners": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "whatever": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "needs": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 2,
+      "8": 1
+    }
+  },
+  "hardly": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "secret": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "founded": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "bryan": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "pete": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "developing": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "testing": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 3
+    }
+  },
+  "driving": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "fusion": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "escape": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "roads": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "detroit": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "polo": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "alto": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "uses": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "volkswagen": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "id": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "buzz": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "hamburg": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "pilot": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "underway": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "miami": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "pittsburgh": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "walmart": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "vandalizing": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "carrots": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "convert": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "pilots": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "customers": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 3,
+      "8": 1
+    }
+  },
+  "attract": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "central": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "combines": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "liar": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "maps": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "tool": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 2,
+      "8": 1
+    }
+  },
+  "called": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "hub": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "supports": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "field": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "collection": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "web": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 3
+    }
+  },
+  "lets": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "operator": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "checklist": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "ensure": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "everything": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "deployed": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "send": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "updates": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "roadways": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "guidance": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "troubleshooting": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "operations": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 3,
+      "9": 1
+    }
+  },
+  "existing": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 3
+    }
+  },
+  "complicated": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "stuff": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "inside": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "9": 1
+    }
+  },
+  "self": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "occasionally": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "vehicles": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "developed": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "clearly": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "aimed": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "gateway": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "branded": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "application": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "programming": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 1
+    }
+  },
+  "interfaces": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "connect": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "app": {
+    "doc_freq": 3,
+    "postings": {
+      "5": 1,
+      "6": 3,
+      "7": 8
+    }
+  },
+  "pick": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "locations": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "dispatch": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "restaurant": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "supply": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "driverless": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "la": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "carte": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "options": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 1
+    }
+  },
+  "depending": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "days": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 1
+    }
+  },
+  "period": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 2
+    }
+  },
+  "popping": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "mushrooms": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "directed": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "successfully": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "obstacles": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "closed": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "demos": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "required": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "pieces": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "compelling": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "retailer": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "changing": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "survived": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "grew": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "7": 2
+    }
+  },
+  "consolidation": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "sized": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "exist": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "dreaded": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "collaboration": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "partnerships": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "meaning": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "receives": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "keen": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "ramp": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "introduction": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "7": 1
+    }
+  },
+  "ambitions": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "variety": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "backers": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "entire": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "suite": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "maintenance": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "operation": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "today": {
+    "doc_freq": 3,
+    "postings": {
+      "5": 1,
+      "6": 1,
+      "8": 2
+    }
+  },
+  "point": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 2
+    }
+  },
+  "enable": {
+    "doc_freq": 2,
+    "postings": {
+      "5": 1,
+      "6": 1
+    }
+  },
+  "flexible": {
+    "doc_freq": 1,
+    "postings": {
+      "5": 1
+    }
+  },
+  "missed": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "feature": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "omniweb": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 9
+    }
+  },
+  "shuttered": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "safari": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 8
+    }
+  },
+  "brought": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "apple": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 2,
+      "7": 2
+    }
+  },
+  "released": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "9": 1
+    }
+  },
+  "release": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 2,
+      "9": 2
+    }
+  },
+  "debuting": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "browser": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 4,
+      "9": 1
+    }
+  },
+  "update": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "users": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "wishlist": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "decade": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "sidebar": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "tabs": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 7,
+      "9": 1
+    }
+  },
+  "edge": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "offers": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "8": 1
+    }
+  },
+  "chrome": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "firefox": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "extensions": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "introduced": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "concept": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "ruined": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "browsers": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "elegance": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "implementation": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "twenty": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "interface": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "faithfully": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "rendered": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "thumbnails": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "updated": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "ordered": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "dragging": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "collapse": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "refresh": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "whole": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "stack": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "clicks": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "pages": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "planning": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "vertical": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "computer": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "screens": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "wider": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "tall": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "putting": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "window": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "better": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "9": 1
+    }
+  },
+  "allowing": {
+    "doc_freq": 3,
+    "postings": {
+      "6": 1,
+      "7": 1,
+      "9": 1
+    }
+  },
+  "view": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "easier": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "starts": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "numbering": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "happens": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "screenshot": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "expanded": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "collapsed": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "appear": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "deprecated": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "drawer": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "ui": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "arguably": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "mac": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 9
+    }
+  },
+  "os": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 8
+    }
+  },
+  "explorer": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "bundled": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "x": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "preview": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "intrepid": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "esters": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "browsing": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "originally": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "beta": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "shortly": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "previews": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "became": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "ported": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "pure": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "written": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "language": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "clean": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "classic": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "elements": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "clickable": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "aqua": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "images": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "text": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "using": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "8": 1
+    }
+  },
+  "bright": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "crisp": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "microsoft": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 2
+    }
+  },
+  "indie": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "shop": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "history": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "8": 1
+    }
+  },
+  "ranking": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "9": 1
+    }
+  },
+  "solid": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "8": 1
+    }
+  },
+  "nextstep": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "addicts": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "selling": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "pretty": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "8": 1
+    }
+  },
+  "dropped": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "ie": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "decided": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "releasing": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "january": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "source": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "html": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "rendering": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "sorely": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "lacking": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "8": 1
+    }
+  },
+  "come": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "7": 1
+    }
+  },
+  "missing": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "toolbar": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "search": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "bookmarks": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "filtering": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "grown": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "7": 1
+    }
+  },
+  "impossible": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "omnigroup": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "switch": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "gave": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "lease": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "keeping": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "relevant": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "rights": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "continue": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "devoting": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "started": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "transitioned": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "musicline": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "stuck": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "came": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "7": 1
+    }
+  },
+  "passion": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "viable": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "daily": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "realized": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "writing": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "tried": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "kind": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "9": 1
+    }
+  },
+  "neither": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "died": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "switched": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "leaning": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "hacks": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "try": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "loved": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "feel": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "resemble": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "last": {
+    "doc_freq": 4,
+    "postings": {
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 1
+    }
+  },
+  "tab": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 3
+    }
+  },
+  "groups": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "9": 1
+    }
+  },
+  "tame": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "centralizing": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "version": {
+    "doc_freq": 2,
+    "postings": {
+      "6": 1,
+      "9": 1
+    }
+  },
+  "perfect": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "thumbnail": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "horizontal": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "bar": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "closer": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "ideal": {
+    "doc_freq": 1,
+    "postings": {
+      "6": 1
+    }
+  },
+  "purchase": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 3
+    }
+  },
+  "jumped": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "tied": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "estimate": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "store": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 4
+    }
+  },
+  "lumped": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "balance": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "sheet": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "adjusted": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "commission": {
+    "doc_freq": 2,
+    "postings": {
+      "7": 1,
+      "9": 1
+    }
+  },
+  "structure": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "longer": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "flat": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "backward": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "figures": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "narrow": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "indicates": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "consumers": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "paying": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "engage": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "listed": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "considerably": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "suggestion": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "cut": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "growth": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 2
+    }
+  },
+  "entirely": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "closely": {
+    "doc_freq": 2,
+    "postings": {
+      "7": 1,
+      "9": 1
+    }
+  },
+  "linked": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "att": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 3
+    }
+  },
+  "instead": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "broader": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "macroeconomic": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "factors": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "impacted": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 2
+    }
+  },
+  "intelligence": {
+    "doc_freq": 3,
+    "postings": {
+      "7": 1,
+      "8": 1,
+      "9": 4
+    }
+  },
+  "average": {
+    "doc_freq": 2,
+    "postings": {
+      "7": 4,
+      "8": 1
+    }
+  },
+  "purchases": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 6
+    }
+  },
+  "climbed": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "google": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 5
+    }
+  },
+  "play": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 3
+    }
+  },
+  "map": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 3
+    }
+  },
+  "increase": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 2
+    }
+  },
+  "analyzed": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "pricing": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 2
+    }
+  },
+  "marketplace": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "july": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 2
+    }
+  },
+  "apptopia": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "suspects": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "rising": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "increases": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 3
+    }
+  },
+  "kick": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "hit": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "economy": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "publishers": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "adjusting": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "rates": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "increased": {
+    "doc_freq": 2,
+    "postings": {
+      "7": 1,
+      "8": 1
+    }
+  },
+  "effective": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "cost": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "install": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "costly": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "acquire": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "cites": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "measurement": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "adjust": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "eci": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "directly": {
+    "doc_freq": 2,
+    "postings": {
+      "7": 1,
+      "8": 1
+    }
+  },
+  "correlates": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "trends": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "pulls": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "hosts": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "reliant": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "single": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "news": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "follows": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "helped": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "boost": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "advertising": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "earn": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "amid": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "ios": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 2
+    }
+  },
+  "monthly": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "subscription": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "seeing": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "photo": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "sports": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "beauty": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "events": {
+    "doc_freq": 1,
+    "postings": {
+      "7": 1
+    }
+  },
+  "bottom": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "crash": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "climate": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 5
+    }
+  },
+  "heats": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "late": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "Ns": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "fascinating": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "economist": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "realize": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "patronized": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "unprofitable": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "catered": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "meals": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "laundry": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "purchasing": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "super": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "bowl": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "ads": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "freeway": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "storage": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "crates": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "kitchen": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "grocery": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "contender": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "mba": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "candidates": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "study": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "messenger": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "bags": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "promised": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "basics": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "minutes": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "sell": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "articles": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "discount": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "code": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "tcplusroundup": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "smoking": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "craters": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "anna": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "barber": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "sold": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "fire": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "laid": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "staff": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "except": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "stayed": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "settle": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "says": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 3
+    }
+  },
+  "partner": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "noon": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "join": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "operators": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "avoid": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "misses": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "past": {
+    "doc_freq": 2,
+    "postings": {
+      "8": 1,
+      "9": 2
+    }
+  },
+  "discuss": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "social": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "emotional": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "created": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "align": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "employees": {
+    "doc_freq": 2,
+    "postings": {
+      "8": 1,
+      "9": 3
+    }
+  },
+  "thanks": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "walter": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "thompson": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "editorial": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "conception": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "finish": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "frequent": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "marjorie": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "wonder": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "acquired": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "understands": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "customer": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "shares": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "guiding": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "principles": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "transaction": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "achieve": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "platforms": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 3
+    }
+  },
+  "boarded": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "merchants": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "pandemic": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "sign": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "platform": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "enterprise": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "shin": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "relative": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "performance": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "spotify": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "salesforce": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "commerce": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "drupal": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "four": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "shy": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "tam": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "wars": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "heating": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "rely": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "someone": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "assessment": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "subjective": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "dora": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 3
+    }
+  },
+  "research": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "metrics": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "measuring": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "failure": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "rate": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "cover": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "deficiencies": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "deploying": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "analytics": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "hr": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "managers": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "teams": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "passed": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "reduction": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "act": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "creating": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "tailwinds": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "reporter": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "tim": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "de": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "chant": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "count": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "value": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "held": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "steady": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "triple": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "tax": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "credits": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "incentives": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "ira": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "spark": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "funding": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "property": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "monitoring": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "pull": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "dioxide": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "warming": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "hot": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "hotter": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "plagued": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "fraud": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "scarcely": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "adults": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "faster": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "region": {
+    "doc_freq": 2,
+    "postings": {
+      "8": 1,
+      "9": 1
+    }
+  },
+  "latm": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "generate": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "payments": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "landscape": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "america": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "seems": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "hopelessly": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "fragmented": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "riddled": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "socio": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "principal": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "fragmentation": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "vertically": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "integrated": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "orchestration": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 2
+    }
+  },
+  "capture": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "blessing": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "disguise": {
+    "doc_freq": 1,
+    "postings": {
+      "8": 1
+    }
+  },
+  "learned": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "judge": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 17
+    }
+  },
+  "ticking": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "bomb": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "covering": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "misleading": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "senate": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "judiciary": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "committee": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "month": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "complaint": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 8
+    }
+  },
+  "filed": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "federal": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 3
+    }
+  },
+  "comments": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "respond": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "request": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "key": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "takeaways": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "testimony": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "lawmakers": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 4
+    }
+  },
+  "chuck": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "member": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "opening": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "remarks": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "fbi": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "warned": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "chinese": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "spy": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 3
+    }
+  },
+  "redacted": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "received": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "information": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 9
+    }
+  },
+  "government": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 7
+    }
+  },
+  "behalf": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "foreign": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 6
+    }
+  },
+  "nationality": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "agents": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 3
+    }
+  },
+  "disclosed": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "agent": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 3
+    }
+  },
+  "ministry": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "state": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "engineers": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 5
+    }
+  },
+  "broad": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "engineer": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "potentially": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "sensitive": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "censor": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "concede": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "demands": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "monitor": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "log": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "identify": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "indian": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "placing": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "granted": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "unsupervised": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "employee": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "guilty": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "spying": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "saudi": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "handing": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "suspected": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "visibility": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "tracked": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "login": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "registering": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "failed": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "attempts": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "members": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "describing": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "red": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "chief": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 3
+    }
+  },
+  "officer": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "para": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "agrawal": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "assign": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "anyone": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "diagnose": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "fix": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "fundamental": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "logging": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "remnant": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "apparent": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "lax": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "controls": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "collects": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "fully": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "phone": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "ip": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "addresses": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "connecting": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "approximate": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "location": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "device": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "accessing": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "attractive": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "reasons": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "cited": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "helpful": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "governments": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "knows": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "harassment": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "individuals": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "influence": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "leverage": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "citing": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "previous": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "massive": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "thefts": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "personnel": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "breach": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 2
+    }
+  },
+  "office": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "opm": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "file": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "stolen": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "subsequent": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "months": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "settlement": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "trade": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "violating": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "securing": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "accounts": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "agencies": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "responsibility": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "enforce": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "law": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "accused": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "ftc": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "richard": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "referenced": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "agreement": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "passing": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "enforcement": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "toolbelt": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "accuses": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "cybersecurity": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  },
+  "mismanagement": {
+    "doc_freq": 1,
+    "postings": {
+      "9": 1
+    }
+  }
+}

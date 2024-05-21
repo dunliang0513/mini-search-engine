@@ -7,6 +7,7 @@ import math
 
 
 def get_corpus(dataset, stopwords_set):
+    
     for url, text in dataset:
         if text != '':
             tokens = text_preprocessor.preprocess_text(text, stopwords_set)
@@ -37,25 +38,22 @@ visited_urls_file = os.path.join(os.getcwd(), 'database', 'visited_urls.json')
 visited_urls = set()
 if os.path.isfile(visited_urls_file):
     with open(visited_urls_file, mode='rb') as f:
-        visited_urls = json.load(f)
+        if os.stat(visited_urls_file).st_size != 0:
+            visited_urls = json.load(f)
 
 urls = []
 if os.path.isfile(urls_file):
     with open(urls_file, mode='rb') as f:
-        urls = json.load(f)
+        if os.stat(urls_file).st_size != 0:
+            urls = json.load(f)
+        
 
 
 corpora = get_corpora(stopwords_set, visited_urls)
 
-with open(index_db_file, 'r', encoding='utf-8') as f:
-    index_db = json.load(f)
-
-
-for key, value in index_db.items():
-    print(f"{key}: {value}")
 
 # Build inverted index
-reverted_index_builder.build_inverted_index(urls, corpora, index_db)
+reverted_index_builder.build_inverted_index(urls, corpora, index_db_file)
         
 
 
@@ -79,10 +77,12 @@ os.makedirs(os.path.dirname(visited_urls_file), exist_ok=True)
 
 
 with open(visited_urls_file, mode='w', encoding='utf-8') as f:
-    json.dump(visited_urls, f, ensure_ascii=False, indent=4)
+    json.dump(list(visited_urls), f, ensure_ascii=False, indent=4)
 
 with open(urls_file, mode='w', encoding='utf-8') as f:
     json.dump(urls, f, ensure_ascii=False, indent=4)
 
 # with open(lengths_file, mode='w', encoding='utf-8') as f:
 #     json.dump(lengths, f, ensure_ascii=False, indent=4)
+
+print("Done building inverted index.")
