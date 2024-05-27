@@ -1,5 +1,6 @@
 import crawlers.techcrunch.crawler as techcrunch_crawler
 from utils import reverted_index_builder, text_preprocessor, TFIDF_helper as helper, json_file_loader as loader
+from utils import data_saver
 import os
 import json
 from collections import Counter
@@ -11,6 +12,7 @@ def get_corpus(dataset, stopwords_set):
     for url, text in dataset:
         if text != '':
             tokens = text_preprocessor.preprocess_text(text, stopwords_set)
+            data_saver.save_data(url, text)
             print('URL: {}'.format(url))
             yield url, Counter(tokens)
 
