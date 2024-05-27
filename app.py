@@ -6,15 +6,16 @@ from advance_search import advance_search_and_return_top_ten, create_embeddings_
 st.title("Mini Search Engine about Tech News")
 
 query = st.text_input("Enter your query here:")
-embeddings = create_embeddings_index()
+embeddings, urls = create_embeddings_index()
 
 if st.button("Search"):
     if query:
         search_results = search_and_return_top_twenty(query)
         if search_results == "No matches found":
-            # st.write(results)
+            st.text(search_results)
+            st.text("Here are the recommendations")
+            advance_search_results = advance_search_and_return_top_ten(query, embeddings, urls)
             
-            advance_search_results = advance_search_and_return_top_ten(query, embeddings[0], embeddings[1])
             for url, score in advance_search_results:
                 st.write(f"URL: {url}")
                 st.text(f"Score: {score}")

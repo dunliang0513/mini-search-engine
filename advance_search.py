@@ -24,7 +24,10 @@ def create_embeddings_index():
 
     embeddings.index(txtai_data)
 
+    embeddings.save("embeddings.tar.gz")
+
     return embeddings, urls
+   
 
 def advance_search_and_return_top_ten(query, embeddings, urls):
     results = embeddings.search(query, limit=10)
@@ -32,3 +35,5 @@ def advance_search_and_return_top_ten(query, embeddings, urls):
     urls_and_scores = [(urls[result[0]], result[1]) for result in results]
 
     return urls_and_scores
+
+
