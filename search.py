@@ -56,7 +56,7 @@ for term, query_weight in query_weights.items():
         scores[docId][1] += query_weight * doc_weight / lengths[docId]
 
 
-
+# Ranking
 # Sort scores and display results
 scores.sort(key=lambda e: e[1], reverse=True)
 
