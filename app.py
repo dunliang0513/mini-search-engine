@@ -14,6 +14,7 @@ if st.button("Search"):
             st.write(results)
         else:
             for url, score in results:
-                st.write(f"URL: {url}, Score: {score}")
+                st.write(f"URL: {url}")
+                st.text(f"Score: {score}")
     else:
         st.write("Please enter a query and press the search button.")

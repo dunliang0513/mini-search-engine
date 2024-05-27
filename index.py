@@ -37,17 +37,11 @@ lengths_file = os.path.join(os.getcwd(), 'database', 'lengths.json')
 
 visited_urls = set()
 visited_urls = loader.load_json_file(visited_urls_file)
-# if os.path.isfile(visited_urls_file):
-#     with open(visited_urls_file, mode='rb') as f:
-#         if os.stat(visited_urls_file).st_size != 0:
-#             visited_urls = json.load(f)
+
 
 urls = []
 urls = loader.load_json_file(urls_file)
-# if os.path.isfile(urls_file):
-#     with open(urls_file, mode='rb') as f:
-#         if os.stat(urls_file).st_size != 0:
-#             urls = json.load(f)
+
         
 
 
@@ -68,12 +62,10 @@ for index in range(num_docs):
     for term, value in index_db.items():
         df = value['doc_freq']
         postings_list = value['postings']
-        # print(f'Postings list for term {term}: {postings_list}')  # Add this line
 
 
         if str(index) in postings_list.keys():
             weight = helper.compute_term_freq(postings_list[str(index)]) * helper.compute_inv_doc_freq(df, num_docs)
-            print(f'Weight for term {term} in document {index}: {weight}')  # Add this line
             vector.append(weight)
 
     lengths[index] = math.sqrt(sum((e ** 2 for e in vector)))
