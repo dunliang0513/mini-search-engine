@@ -1,14 +1,16 @@
 import json
 from collections import defaultdict
 import os
+import utils.json_file_loader as loader
 
 
 def build_inverted_index(url_list, crawl_generator, index_file):
     index_db = defaultdict(lambda: {'doc_freq': 0, 'postings': {}})
 
-    if os.path.isfile(index_file) and os.stat(index_file).st_size != 0:
-        with open(index_file, 'r', encoding='utf-8') as f:
-            index_db.update(json.load(f))
+    index_db.update(loader.load_json_file(index_file))
+    # if os.path.isfile(index_file) and os.stat(index_file).st_size != 0:
+    #     with open(index_file, 'r', encoding='utf-8') as f:
+    #         index_db.update(json.load(f))
 
     for url, bag_of_words in crawl_generator:
         # Preprocess the text (e.g., tokenize, remove stopwords, stem)
