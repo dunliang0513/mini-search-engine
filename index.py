@@ -1,17 +1,20 @@
 import crawlers.techcrunch.crawler as techcrunch_crawler
-from utils import reverted_index_builder, text_preprocessor
+from utils import reverted_index_builder, text_preprocessor, TFIDF_helper as helper, json_file_loader as loader
+from utils import data_saver
 import os
 import json
 from collections import Counter
 import math
 
-
+# Function to get corpus from dataset
 def get_corpus(dataset, stopwords_set):
-    
     for url, text in dataset:
         if text != '':
             tokens = text_preprocessor.preprocess_text(text, stopwords_set)
+            # Save the URL and text data for advance search
+            data_saver.save_data(url, text)
             print('URL: {}'.format(url))
+
             yield url, Counter(tokens)
 
 
@@ -28,61 +31,59 @@ stopwords_file = os.path.join(os.getcwd(), 'english-stopwords-list.txt')
 with open(stopwords_file, mode='r', encoding='utf-8') as f:
     stopwords_set = set(f.read().split())
 
-
+# Define paths for database files
 index_db_file = os.path.join(os.getcwd(), 'database', 'inverted_index.json')
 urls_file = os.path.join(os.getcwd(), 'database', 'urls.json')
 visited_urls_file = os.path.join(os.getcwd(), 'database', 'visited_urls.json')
-# lengths_file = os.path.join(os.getcwd(), 'db', 'lengths.db')
+lengths_file = os.path.join(os.getcwd(), 'database', 'lengths.json')
 
-
+# Load visted URLs from file
 visited_urls = set()
-if os.path.isfile(visited_urls_file):
-    with open(visited_urls_file, mode='rb') as f:
-        if os.stat(visited_urls_file).st_size != 0:
-            visited_urls = json.load(f)
+visited_urls = loader.load_json_file(visited_urls_file)
 
+# Load URLs from file
 urls = []
-if os.path.isfile(urls_file):
-    with open(urls_file, mode='rb') as f:
-        if os.stat(urls_file).st_size != 0:
-            urls = json.load(f)
-        
+urls = loader.load_json_file(urls_file)
 
-
+# Get corpora        
 corpora = get_corpora(stopwords_set, visited_urls)
-
 
 # Build inverted index
 reverted_index_builder.build_inverted_index(urls, corpora, index_db_file)
-        
 
+# Load inverted index from file   
+index_db = loader.load_json_file(index_db_file)
 
 # # Caculate lengths for normalizing
-# num_docs = len(urls)
-# lengths = [0 for i in range(num_docs)]
-# for index in range(num_docs):
-#     # Re-construct doc vector from inverted index
-#     vector = []
-#     for term, value in index_db.items():
-#         df = value['df']
-#         postings_list = value['postings_list']
+num_docs = len(urls)
+lengths = [0 for i in range(num_docs)]
+for index in range(num_docs):
+    # Re-construct doc vector from inverted index
+    vector = []
+    for term, value in index_db.items():
+        df = value['doc_freq']
+        postings_list = value['postings']
 
-#         if index in postings_list.keys():
-#             weight = helper.tf(postings_list[index]) * helper.idf(df, num_docs)
-#             vector.append(weight)
 
-#     lengths[index] = math.sqrt(sum((e ** 2 for e in vector)))
+        if str(index) in postings_list.keys():
+            weight = helper.compute_term_freq(postings_list[str(index)]) * helper.compute_inv_doc_freq(df, num_docs)
+            vector.append(weight)
 
+    lengths[index] = math.sqrt(sum((e ** 2 for e in vector)))
+
+# Create directories if they don't exist
 os.makedirs(os.path.dirname(visited_urls_file), exist_ok=True)
 
-
+# Save visted URLs to file
 with open(visited_urls_file, mode='w', encoding='utf-8') as f:
     json.dump(list(visited_urls), f, ensure_ascii=False, indent=4)
 
+# Save URLs to file
 with open(urls_file, mode='w', encoding='utf-8') as f:
     json.dump(urls, f, ensure_ascii=False, indent=4)
 
-# with open(lengths_file, mode='w', encoding='utf-8') as f:
-#     json.dump(lengths, f, ensure_ascii=False, indent=4)
+# Save lengths to file
+with open(lengths_file, mode='w', encoding='utf-8') as f:
+    json.dump(lengths, f, ensure_ascii=False, indent=4)
 
 print("Done building inverted index.")
