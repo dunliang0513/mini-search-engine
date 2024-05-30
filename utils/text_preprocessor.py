@@ -14,12 +14,6 @@ def remove_stopwords(document, stopwords_list):
     return ' '.join(tokens)
 
 
-def normalize_text(document):
-    # Normalize numbers and dates
-    document = re.sub(r'\d+', 'NUM', document)
-    # Add more normalization rules as needed
-    return document
-
 def spell_check_text(document):
     spell = Speller()
     corrected_text = [spell(word) for word in document.split()]
@@ -27,7 +21,6 @@ def spell_check_text(document):
 
 def preprocess_text(document, stopwords_list):
     document = document.lower()
-    document = normalize_text(document)
     document = spell_check_text(document)
     document = remove_stopwords(document, stopwords_list)
     document = document.split()

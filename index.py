@@ -6,14 +6,15 @@ import json
 from collections import Counter
 import math
 
-
+# Function to get corpus from dataset
 def get_corpus(dataset, stopwords_set):
-    
     for url, text in dataset:
         if text != '':
             tokens = text_preprocessor.preprocess_text(text, stopwords_set)
+            # Save the URL and text data for advance search
             data_saver.save_data(url, text)
             print('URL: {}'.format(url))
+
             yield url, Counter(tokens)
 
 
@@ -30,29 +31,27 @@ stopwords_file = os.path.join(os.getcwd(), 'english-stopwords-list.txt')
 with open(stopwords_file, mode='r', encoding='utf-8') as f:
     stopwords_set = set(f.read().split())
 
-
+# Define paths for database files
 index_db_file = os.path.join(os.getcwd(), 'database', 'inverted_index.json')
 urls_file = os.path.join(os.getcwd(), 'database', 'urls.json')
 visited_urls_file = os.path.join(os.getcwd(), 'database', 'visited_urls.json')
 lengths_file = os.path.join(os.getcwd(), 'database', 'lengths.json')
 
-
+# Load visted URLs from file
 visited_urls = set()
 visited_urls = loader.load_json_file(visited_urls_file)
 
-
+# Load URLs from file
 urls = []
 urls = loader.load_json_file(urls_file)
 
-        
-
-
+# Get corpora        
 corpora = get_corpora(stopwords_set, visited_urls)
-
 
 # Build inverted index
 reverted_index_builder.build_inverted_index(urls, corpora, index_db_file)
-        
+
+# Load inverted index from file   
 index_db = loader.load_json_file(index_db_file)
 
 # # Caculate lengths for normalizing
@@ -72,16 +71,18 @@ for index in range(num_docs):
 
     lengths[index] = math.sqrt(sum((e ** 2 for e in vector)))
 
-
+# Create directories if they don't exist
 os.makedirs(os.path.dirname(visited_urls_file), exist_ok=True)
 
-
+# Save visted URLs to file
 with open(visited_urls_file, mode='w', encoding='utf-8') as f:
     json.dump(list(visited_urls), f, ensure_ascii=False, indent=4)
 
+# Save URLs to file
 with open(urls_file, mode='w', encoding='utf-8') as f:
     json.dump(urls, f, ensure_ascii=False, indent=4)
 
+# Save lengths to file
 with open(lengths_file, mode='w', encoding='utf-8') as f:
     json.dump(lengths, f, ensure_ascii=False, indent=4)
 
