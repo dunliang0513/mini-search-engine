@@ -1,4 +1,3 @@
-import sys
 import os
 import math
 from utils import text_preprocessor, TFIDF_helper as helper, json_file_loader as loader

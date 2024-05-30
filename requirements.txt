@@ -1,0 +1,7 @@
+bs4==0.0.2
+streamlit==1.35.0
+txtai==7.1.0
+autocorrect==2.6.1
+nltk==3.8.1
+requests==2.31.0
+numpy==1.26.4

@@ -19,7 +19,6 @@ def crawl(visited_urls):
       
         if url not in visited_urls:
             visited_urls.append(url)
-            print(f"Visiting: {url}")
             # Extract the text from the url
             text = helper.extract_text_from_url(url)
     
