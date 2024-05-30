@@ -13,8 +13,7 @@ The goal of this project is to make it easier to find and access technical relat
 1. Clone the project from GitHub:
 
 ```
-git clone https://github.com/dunliang0513/mini-search-engine.
-git
+git clone https://github.com/dunliang0513/mini-search-engine.git
 ```
 
 2. Navigate to the project directory:
