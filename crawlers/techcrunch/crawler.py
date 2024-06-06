@@ -8,7 +8,7 @@ def crawl(visited_urls):
     url_result = []
     
     # Can modify the range to get more urls
-    for xml in xml_list[150:160]:
+    for xml in xml_list[113:120]:
         url = common.extract_urls_from_xml(xml)
         url_result.append(url)
 
@@ -16,7 +16,7 @@ def crawl(visited_urls):
     url_result = [item for sublist in url_result for item in sublist]
 
     for url in url_result[:50]:
-      
+    # for url in url_result[:-10]: 
         if url not in visited_urls:
             visited_urls.append(url)
             # Extract the text from the url

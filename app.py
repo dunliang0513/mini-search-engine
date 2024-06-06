@@ -1,4 +1,5 @@
 import streamlit as st
+import time
 
 from search import search_and_return_top_twenty
 from advance_search import advance_search_and_return_top_ten, create_embeddings_index
@@ -11,10 +12,15 @@ embeddings, urls = create_embeddings_index()
 if st.button("Search"):
     # If user has entered a query
     if query:
+        start_time = time.time()
         # Perform a basic search and get the top twenty results
         search_results = search_and_return_top_twenty(query)
         # Perform an advanced search and get the top ten results
         advance_search_results = advance_search_and_return_top_ten(query, embeddings, urls)
+
+        end_time = time.time()
+        response_time = end_time - start_time
+        st.write(f"Response time: {response_time:.2f} seconds")
 
         # Create two columns
         col1, col2 = st.columns(2)
